@@ -1,4 +1,4 @@
-<img align="right" height=560em src="https://raw.githubusercontent.com/gist/DuMendonca/bf1e3e2af53092271100c4b95148a7c2/raw/143d839b89d12003cac74cda50fab5ab0316ad07/githubcard.svg"/>
+<img align="right" height=550em src="https://raw.githubusercontent.com/gist/DuMendonca/bf1e3e2af53092271100c4b95148a7c2/raw/143d839b89d12003cac74cda50fab5ab0316ad07/githubcard.svg"/>
 <h1 align="left"> Hi, I'm  Eduardo Mendonça </h1>
 
 Student of the fifth semester of Systems Analysis and Technologist in Development at UDESC, I am from Joinville, Brazil. I work as a Full-Stack Developer, working with the Frontend and Backend languages respectively JavaScript and Java.
