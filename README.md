@@ -23,19 +23,7 @@ I am an IT enthusiast, always looking for new technologies and languages.
 <br><br>
 
 <h2 align="center">My Github Stats</h2>
-<p style="text-align:right">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=dumendonca&show_icons=true&theme=transparent" alt="dumendonca's stats"/>
-</p>
 <p style="text-align:right"> 
  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendonca&layout=compact&theme=transparent" alt="dumendonca's most language"/>
 </p>
-<p style="text-align:right">
-  <img width="500em" src="http://github-readme-streak-stats.herokuapp.com?user=dumendonca&theme=transparent" alt="dumendonca's streak stats"/>
-</p>
-
 <br><br>
-
-<h2 align="center">My Github Trophy</h2>
-<p align="center">
-  <img width="500em" src="https://github-profile-trophy.vercel.app/?username=dumendonca&theme=algolia&align=center" alt="dumendonca's most languages"/>
-</p>
