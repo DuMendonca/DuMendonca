@@ -19,11 +19,9 @@ I am an IT enthusiast, always looking for new technologies and languages.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 
 <br><br>
-
-<h2 align="center">My Github Stats</h2>
 <p style="text-align:right"> 
  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendonca&layout=compact&theme=transparent" alt="dumendonca's most language"/>
 </p>
-<br><br>
