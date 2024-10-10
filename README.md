@@ -1,4 +1,4 @@
-<img align="right" height=500em src="https://raw.githubusercontent.com/gist/DuMendonca/bf1e3e2af53092271100c4b95148a7c2/raw/36565ccb1a1259fcaea6bd8018891b6e78964d6c/githubcard.svg"/>
+<img align="right" height=500em src="https://gist.githubusercontent.com/DuMendonca/bf1e3e2af53092271100c4b95148a7c2/raw/797ae1ffbe2142f70bee5b9ed689a3257832ec8b/githubcard.svg"/>
 <h1 align="left"> Hi, I'm  Eduardo Mendonça </h1>
 
 **Back-End Java Developer | Systems Analyst | Clean Code Enthusiast**
